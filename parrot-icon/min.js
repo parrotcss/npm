@@ -1084,7 +1084,7 @@ let sec = document.getElementsByTagName("section")[0];
 
 for (let i = 0; i < i_list.length; i++) {
   let btn = document.createElement("I");
-  btn.classList.add("material-icons");
+  btn.classList.add("parrot-icons");
   btn.innerHTML = i_list[i];
   sec.appendChild(btn);
 }
