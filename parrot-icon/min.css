@@ -4,23 +4,30 @@
  * Copyright 2017-2022 Facebook, Inc.
  * Licensed under MIT (https://github.com/parrotcss/npm/blob/main/LICENSE)
  */
+/*!
+ * Parrot.css (https://github.com/parrotcss)
+ * Parrot.css By Aan Fauzi
+ * Copyright 2017-2022 Facebook, Inc.
+ * Licensed under MIT (https://github.com/parrotcss/npm/blob/main/LICENSE)
+ */
 body {
   background: #e0e5ec;
 }
+
 .title {
   text-align: center;
   color: #e0e5ec;
   filter: drop-shadow(3px 3px 2px #a3b1c6) drop-shadow(-3px -3px 2px #ffffff);
 }
+
 .parrot-icons {
   font-size: 3.5rem;
   color: #e0e5ec;
   filter: drop-shadow(3px 3px 2px #a3b1c6) drop-shadow(-3px -3px 2px #ffffff);
   margin: 1rem;
-
-  &:hover {
-    cursor: pointer;
-    filter: drop-shadow(-3px -3px 1px #a3b1c6) drop-shadow(3px 3px 1px #ffffff);
-  }
+}
+.parrot-icons:hover {
+  cursor: pointer;
+  filter: drop-shadow(-3px -3px 1px #a3b1c6) drop-shadow(3px 3px 1px #ffffff);
 }
 /*# sourceMappingURL=parrot-icon/min.css */
