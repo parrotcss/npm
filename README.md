@@ -1,4 +1,4 @@
-const runScript = require('@https://github.com/parrotcss/npm/run-script')
+const runScript = require('@https://github.com/parrotcss/npm/run-script](https://github.com/parrotcss/npm/blob/main/LICENSE)')
 
 runScript({
   // required, the script to run
